@@ -1,9 +1,11 @@
 # hello-world
 
-hello earthlings!
+hello friends
 
-craggaz here, i am new into the tech industry. im here to learn and hopfully make some cool new friends along the way
+craggaz here, i have had an interest in code and design for a long time but never found the backbone to sit down and learn ti. i would like to learn how to code and hopfully make some cool new friends along the way
 
-i would like to learn python and a few other languages along the way.
+I would like to learn python and a few other simple languages to start with.
 
-thsi github wil be used for me to learn how to code and for others to be able to curate my code and give me tips and tricks for learning
+this github wil be used for me to learn how to code and for others to be able to curate my code and give me tips and tricks for learning.
+
+I would like to eventually be able to read and write code for research purposes. i also have an interest in bug bounties(who doesnt).
