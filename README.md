@@ -2,7 +2,7 @@
 
 hello friends
 
-craggaz here, i have had an interest in code and design for a long time but never found the backbone to sit down and learn ti. i would like to learn how to code and hopfully make some cool new friends along the way
+craggaz here, i have had an interest in code and design for a long time but never found the backbone to sit down and learn it. I would like to learn how to code and hopfully make some cool new friends along the way.
 
 I would like to learn python and a few other simple languages to start with.
 
