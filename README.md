@@ -20,8 +20,6 @@ I would like to eventually be able to read and write code for research purposes.
 	"fmt"
 	)
 
-
-
 	func main() {
 
 	fmt.Println("Hello, M9")
