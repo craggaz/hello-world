@@ -11,16 +11,22 @@ this github wil be used for me to learn how to code and for others to be able to
 I would like to eventually be able to read and write code for research purposes. i also have an interest in bug bounties(who doesnt) these days.
 
 
-package main
 
-import (
+
+	package main
+
+	import (
+
 	"fmt"
-)
+	)
 
-func main() {
+
+
+	func main() {
+
 	fmt.Println("Hello, M9")
 	
 	fmt.Println("WeLcUm, Teh the hells")
 	
 	fmt.Println("your PC, is M9 LEL LEL NjoY")
-}
+	}
